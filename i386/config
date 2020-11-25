@@ -1,0 +1,5 @@
+ARCH=i386
+DISTRO=bionic
+DST=bionic
+MIRROR=
+CHROOT_ENV="RUNLEVEL=1 LANG=C.UTF-8 TERM=xterm-color"
